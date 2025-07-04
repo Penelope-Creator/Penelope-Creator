@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dineo Penelope 👋</h1>
-<p align="center">💻 Help Desk Tech | 🎓 Computer Science Student | 🚀 Tech Career in Progress</p>
+<p align="center">💻 Help Desk Tech | 🎓 Computer Science Student | Former Medic |🚀 Tech Career in Progress</p>
 
 ---
 
